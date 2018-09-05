@@ -13,5 +13,5 @@ end
 
 def move (array, index, value)
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-  array[index] = value
+  array[index] = X
 end
